@@ -8,13 +8,25 @@ Stable tag: 0.0.1
 License: GPLv2 or later     
 License URI: http://www.gnu.org/licenses/gpl-2.0.html     
 
-Easily hide titles from any post or page  
-
 ## Description
+
+Easily hide titles from any post or page.
 
 I needed a quick way to let clients hide page titles on certain pages that were getting custom content. Eventually I found an existing plugin, but it was a bit out of date, and I wanted to add some quick edit stuff. Plus, it was a great exercise for using more Grunt. 
 
 ## Usage
+
+To hide a title, check the checkbox in the publish metabox and update the post.
+
+![Check to hide](https://raw.github.com/helgatheviking/title-toggle/master/screenshot1.png)
+
+In the edit overview, a checkmark means the title is displaying. Click on the checkmark to toggle the display. An X mark means the title is being hidden. A checkbox is also available if editing via quick edit. 
+
+![Click on the checkmark to hide the title for that post](https://raw.github.com/helgatheviking/title-toggle/master/screenshot2.png)
+
+## FAQ
+
+### Seeing an empty space where the title used to be
 
 If your theme is using this style of markup in the single content templates:
 
