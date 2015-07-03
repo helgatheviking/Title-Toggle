@@ -1,0 +1,61 @@
+# Copyright (C) 2015 Kathy Darling
+# This file is distributed under the same license as the Title Toggle package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Title Toggle 0.0.1\n"
+"Report-Msgid-Bugs-To: https://kathyisawesome.com/contact\n"
+"POT-Creation-Date: 2015-07-03 16:40:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: title-toggle.php:48
+msgid "Hide %s title:"
+msgstr ""
+
+#: title-toggle.php:105
+msgid "Show Title"
+msgstr ""
+
+#: title-toggle.php:144
+msgid "Toggle title display"
+msgstr ""
+
+#: title-toggle.php:171
+msgid "Hide title"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Title Toggle"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://github.com/helgatheviking/title-toggle"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin that will allow to remove page titles per page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kathy Darling"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.kathyisawesome.com"
+msgstr ""
